@@ -1,0 +1,9 @@
+name: InfinityBeef
+version: '${project.version}'
+main: com.github.gamingoninsulin.infntiybeef.InfinityBeef
+api-version: '1.21'
+description: Plugin providing an InfinityBeef.
+commands:
+  infinitybeef:
+    description: Gives the player an InfinityBeef.
+    usage: /<command>
